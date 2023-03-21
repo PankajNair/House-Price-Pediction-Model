@@ -1,4 +1,4 @@
-# House-Price-Pediction-Model
+# House Price Pediction Model
 ## Problem Statement
 A house is one of the biggest investments that most people make in their lifetime. Therefore, accurate predictions of house prices are essential for prospective buyers, sellers, and investors. A house price prediction model can be a valuable tool for these stakeholders. A house price prediction model can be used by homebuyers to determine when it may be best to purchase a home. By analyzing factors such as interest rates, employment rates, and housing supply and demand, these models can predict future house prices. This information can help potential buyers determine when they should purchase a home and whether they are getting a good deal. For home sellers, a house price prediction model can help them determine the best time to put their home on the market. By knowing when the market is likely to be strong, sellers can optimize their sale price and avoid waiting too long for the market to change.
 ## Data Information
